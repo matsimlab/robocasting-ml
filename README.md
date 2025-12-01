@@ -24,7 +24,7 @@ Performance is evaluated using nested cross-validation with Bayesian hyperparame
 
 ## Key Results
 
-- **Best Model**: GPR-RBF achieves MAE of X.XXX mm (height) and X.XXX mm (width)
+- **Best Models**: XGBoost, GPR (RBG + White)
 - **Dataset**: 58 samples with 3 process parameters
 - **Validation**: 5-fold nested CV with 3-fold inner optimization loop
 - **Feature Importance**: Extrusion multiplier and nozzle speed are the dominant predictors
