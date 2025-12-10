@@ -170,8 +170,8 @@ For questions or collaboration inquiries:
 
 ## Acknowledgments
 
-- Institute for Problems of Materials Science, National Academy of Sciences of Ukraine
-- 
+- **Institution:** Institute for Problems of Materials Science, National Academy of Sciences of Ukraine
+- **Funding:** The work was supported by the Ukrainian Ministry of Education and Science under project number M/19-2024
 
 ## Contributing
 
